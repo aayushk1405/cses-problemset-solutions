@@ -1,10 +1,11 @@
 # cses-problemset-solutions
-Hi there! I am Aayush 
+Hi there! 
+I am Aayush 
 This repository consists of topicwise solutions to the [CSES Problem Set](https://cses.fi/problemset/list/)
 
 ### Features:
 1. Well-structured solutions organized by topic
-2. Clean and readable C++ code
+2. Clean C++ code (Might not be readable but I will try to add comments to each file lol)
 3. Focus on different problem-solving approaches and DSA concepts
 
 **Imp:**
