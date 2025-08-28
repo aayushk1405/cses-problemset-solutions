@@ -2,13 +2,13 @@
 Hi there! I am Aayush 
 This repository consists of topicwise solutions to the [CSES Problem Set](https://cses.fi/problemset/list/)
 
-Features:
-1- Well structured solutions organized by topic
-2- Clean and readable C++ Code
-3- Focus on different problem solving approaches and DSA concepts
+Features:/
+1- Well structured solutions organized by topic/
+2- Clean and readable C++ Code/
+3- Focus on different problem solving approaches and DSA concepts/
 
-**Imp**:-
-1-The formatting of both the Input and Output in the code is according to what was asked in the particular problem.
+**Imp**:-/
+1-The formatting of both the Input and Output in the code is according to what was asked in the particular problem./
 2-The files are named directly as the question names in the CSES problem set so that it would be easy for you to figure out the topic and the problem.
 
 Whether you're someone who enjoys competitive programming and problem solving(like me) and wants to build their basics, or if youre more focused on improving your DSA concepts and preparing for technical interviews, this is definitely for you and I'm sure you will find this helpful!
